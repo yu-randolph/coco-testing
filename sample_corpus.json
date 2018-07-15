@@ -1,0 +1,4486 @@
+{
+    "conceptlist": {
+        "WORDNET": {
+            "NOUN_SYNONYM": [
+                "gift",
+                "endowment",
+                "giving"
+            ],
+            "NOUN_HYPERNYM": [
+                "bequest",
+                "devise ",
+                "free lunch ",
+                "dowry",
+                "bride price ",
+                "largess",
+                "aid",
+                "prize",
+                "present ",
+                "contribution",
+                "enrichment ",
+                "lagniappe ",
+                "bestowal",
+                "freebie",
+                "giveaway ",
+                "gift horse ",
+                "bent",
+                "flair",
+                "raw talent ",
+                "oblation",
+                "bestowal",
+                "accordance",
+                "endowment ",
+                "charity ",
+                "contribution",
+                "alms"
+            ],
+            "NOUN_HYPONYM": [
+                "acquisition ",
+                "natural ability ",
+                "sharing"
+            ]
+        },
+        "FORM_OF": [
+            "gifted",
+            "gifting",
+            "gifts",
+            "gifts",
+            "gifts"
+        ]
+    },
+    "tags": {
+        "Feature_Array": [
+            {
+                "Annotation:": "pos",
+                "FeatureValues": [
+                    {
+                        "featValue": "``"
+                    },
+                    {
+                        "featDesc": "Adverb, comparative",
+                        "featValue": "RBR"
+                    },
+                    {
+                        "featValue": ","
+                    },
+                    {
+                        "featValue": "."
+                    },
+                    {
+                        "featValue": ":"
+                    },
+                    {
+                        "featDesc": "Coordinating conjunction",
+                        "featValue": "CC"
+                    },
+                    {
+                        "featDesc": "Cardinal number",
+                        "featValue": "CD"
+                    },
+                    {
+                        "featDesc": "Determiner",
+                        "featValue": "DT"
+                    },
+                    {
+                        "featDesc": "Existential there",
+                        "featValue": "EX"
+                    },
+                    {
+                        "featDesc": "Wh­adverb",
+                        "featValue": "WRB"
+                    },
+                    {
+                        "featValue": "''"
+                    },
+                    {
+                        "featDesc": "Preposition or subordinating conjunction",
+                        "featValue": "IN"
+                    },
+                    {
+                        "featDesc": "Adjective",
+                        "featValue": "JJ"
+                    },
+                    {
+                        "featDesc": "Modal",
+                        "featValue": "MD"
+                    },
+                    {
+                        "featDesc": "Noun, singular or mass",
+                        "featValue": "NN"
+                    },
+                    {
+                        "featDesc": "Adverb",
+                        "featValue": "RB"
+                    },
+                    {
+                        "featDesc": "Possessive ending",
+                        "featValue": "POS"
+                    },
+                    {
+                        "featDesc": "to",
+                        "featValue": "TO"
+                    },
+                    {
+                        "featDesc": "Personal pronoun",
+                        "featValue": "PRP"
+                    },
+                    {
+                        "featDesc": "Proper noun, singular",
+                        "featValue": "NNP"
+                    },
+                    {
+                        "featDesc": "Noun, plural",
+                        "featValue": "NNS"
+                    },
+                    {
+                        "featDesc": "Verb, base form",
+                        "featValue": "VB"
+                    },
+                    {
+                        "featDesc": "Wh­pronoun",
+                        "featValue": "WP"
+                    },
+                    {
+                        "featDesc": "Adjective, superlative",
+                        "featValue": "JJS"
+                    },
+                    {
+                        "featDesc": "Adjective, comparative",
+                        "featValue": "JJR"
+                    },
+                    {
+                        "featDesc": "Verb, past tense",
+                        "featValue": "VBD"
+                    },
+                    {
+                        "featDesc": "Verb, gerund or present participle",
+                        "featValue": "VBG"
+                    },
+                    {
+                        "featDesc": "Verb, past participle",
+                        "featValue": "VBN"
+                    },
+                    {
+                        "featDesc": "Verb, non­3rd person singular present",
+                        "featValue": "VBP"
+                    },
+                    {
+                        "featDesc": "Wh­determiner",
+                        "featValue": "WDT"
+                    },
+                    {
+                        "featDesc": "Verb, 3rd person singular present",
+                        "featValue": "VBZ"
+                    },
+                    {
+                        "featDesc": "Possessive pronoun",
+                        "featValue": "PRP$"
+                    }
+                ]
+            },
+            {
+                "Annotation:": "ner",
+                "FeatureValues": [
+                    {
+                        "featDesc": "LOCATION",
+                        "featValue": "LOCATION"
+                    },
+                    {
+                        "featDesc": "SET",
+                        "featValue": "SET"
+                    },
+                    {
+                        "featDesc": "O",
+                        "featValue": "O"
+                    },
+                    {
+                        "featDesc": "ORDINAL",
+                        "featValue": "ORDINAL"
+                    },
+                    {
+                        "featDesc": "MISC",
+                        "featValue": "MISC"
+                    },
+                    {
+                        "featDesc": "ORGANIZATION",
+                        "featValue": "ORGANIZATION"
+                    },
+                    {
+                        "featDesc": "NUMBER",
+                        "featValue": "NUMBER"
+                    },
+                    {
+                        "featDesc": "TITLE",
+                        "featValue": "TITLE"
+                    },
+                    {
+                        "featDesc": "PERSON",
+                        "featValue": "PERSON"
+                    },
+                    {
+                        "featDesc": "RELIGION",
+                        "featValue": "RELIGION"
+                    },
+                    {
+                        "featDesc": "DATE",
+                        "featValue": "DATE"
+                    }
+                ]
+            },
+            {
+                "Annotation:": "lemma",
+                "FeatureValues": []
+            }
+        ]
+    },
+    "annotations": {
+        "Graph_Array": [
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "December",
+                        "Terminal_ID": "s0_t1",
+                        "pos": "NNP",
+                        "lemma": "December",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "1998",
+                        "Terminal_ID": "s0_t2",
+                        "pos": "CD",
+                        "lemma": "1998",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "Your",
+                        "Terminal_ID": "s0_t3",
+                        "pos": "PRP$",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "contribution",
+                        "Terminal_ID": "s0_t4",
+                        "pos": "NN",
+                        "lemma": "contribution",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s0_t5",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s0_t6",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "will",
+                        "Terminal_ID": "s0_t7",
+                        "pos": "MD",
+                        "lemma": "will",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "mean",
+                        "Terminal_ID": "s0_t8",
+                        "pos": "VB",
+                        "lemma": "mean",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "more",
+                        "Terminal_ID": "s0_t9",
+                        "pos": "JJR",
+                        "lemma": "more",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "than",
+                        "Terminal_ID": "s0_t10",
+                        "pos": "IN",
+                        "lemma": "than",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "you",
+                        "Terminal_ID": "s0_t11",
+                        "pos": "PRP",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "may",
+                        "Terminal_ID": "s0_t12",
+                        "pos": "MD",
+                        "lemma": "may",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "know",
+                        "Terminal_ID": "s0_t13",
+                        "pos": "VB",
+                        "lemma": "know",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s0_t14",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g0"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "To",
+                        "Terminal_ID": "s1_t1",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s1_t2",
+                        "pos": "VB",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "you",
+                        "Terminal_ID": "s1_t3",
+                        "pos": "PRP",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "see",
+                        "Terminal_ID": "s1_t4",
+                        "pos": "VB",
+                        "lemma": "see",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "how",
+                        "Terminal_ID": "s1_t5",
+                        "pos": "WRB",
+                        "lemma": "how",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "much",
+                        "Terminal_ID": "s1_t6",
+                        "pos": "JJ",
+                        "lemma": "much",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "your",
+                        "Terminal_ID": "s1_t7",
+                        "pos": "PRP$",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "contribution",
+                        "Terminal_ID": "s1_t8",
+                        "pos": "NN",
+                        "lemma": "contribution",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "means",
+                        "Terminal_ID": "s1_t9",
+                        "pos": "VBZ",
+                        "lemma": "mean",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s1_t10",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s1_t11",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'m",
+                        "Terminal_ID": "s1_t12",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "sharing",
+                        "Terminal_ID": "s1_t13",
+                        "pos": "VBG",
+                        "lemma": "share",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "with",
+                        "Terminal_ID": "s1_t14",
+                        "pos": "IN",
+                        "lemma": "with",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "you",
+                        "Terminal_ID": "s1_t15",
+                        "pos": "PRP",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "The",
+                        "Terminal_ID": "s1_t16",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "words",
+                        "Terminal_ID": "s1_t17",
+                        "pos": "NNS",
+                        "lemma": "word",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s1_t18",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s1_t19",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "who",
+                        "Terminal_ID": "s1_t20",
+                        "pos": "WP",
+                        "lemma": "who",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "have",
+                        "Terminal_ID": "s1_t21",
+                        "pos": "VBP",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "lived",
+                        "Terminal_ID": "s1_t22",
+                        "pos": "VBN",
+                        "lemma": "live",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s1_t23",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'s",
+                        "Terminal_ID": "s1_t24",
+                        "pos": "POS",
+                        "lemma": "'s",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "mission",
+                        "Terminal_ID": "s1_t25",
+                        "pos": "NN",
+                        "lemma": "mission",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s1_t26",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g1"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "We",
+                        "Terminal_ID": "s2_t1",
+                        "pos": "PRP",
+                        "lemma": "we",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "want",
+                        "Terminal_ID": "s2_t2",
+                        "pos": "VBP",
+                        "lemma": "want",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "you",
+                        "Terminal_ID": "s2_t3",
+                        "pos": "PRP",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s2_t4",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Know",
+                        "Terminal_ID": "s2_t5",
+                        "pos": "NNP",
+                        "lemma": "Know",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "why",
+                        "Terminal_ID": "s2_t6",
+                        "pos": "WRB",
+                        "lemma": "why",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "your",
+                        "Terminal_ID": "s2_t7",
+                        "pos": "PRP$",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "support",
+                        "Terminal_ID": "s2_t8",
+                        "pos": "NN",
+                        "lemma": "support",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s2_t9",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s2_t10",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "is",
+                        "Terminal_ID": "s2_t11",
+                        "pos": "VBZ",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "so",
+                        "Terminal_ID": "s2_t12",
+                        "pos": "RB",
+                        "lemma": "so",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "important",
+                        "Terminal_ID": "s2_t13",
+                        "pos": "JJ",
+                        "lemma": "important",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s2_t14",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g2"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Your",
+                        "Terminal_ID": "s3_t1",
+                        "pos": "PRP$",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "gift",
+                        "Terminal_ID": "s3_t2",
+                        "pos": "NN",
+                        "lemma": "gift",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s3_t3",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s3_t4",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "LOCATION"
+                    },
+                    {
+                        "Word": "is",
+                        "Terminal_ID": "s3_t5",
+                        "pos": "VBZ",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "important",
+                        "Terminal_ID": "s3_t6",
+                        "pos": "JJ",
+                        "lemma": "important",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "because",
+                        "Terminal_ID": "s3_t7",
+                        "pos": "IN",
+                        "lemma": "because",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s3_t8",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "with",
+                        "Terminal_ID": "s3_t9",
+                        "pos": "IN",
+                        "lemma": "with",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "physical",
+                        "Terminal_ID": "s3_t10",
+                        "pos": "JJ",
+                        "lemma": "physical",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s3_t11",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Mental",
+                        "Terminal_ID": "s3_t12",
+                        "pos": "JJ",
+                        "lemma": "mental",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "disabilities",
+                        "Terminal_ID": "s3_t13",
+                        "pos": "NNS",
+                        "lemma": "disability",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "sometimes",
+                        "Terminal_ID": "s3_t14",
+                        "pos": "RB",
+                        "lemma": "sometimes",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "need",
+                        "Terminal_ID": "s3_t15",
+                        "pos": "VBP",
+                        "lemma": "need",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "an",
+                        "Terminal_ID": "s3_t16",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "extra",
+                        "Terminal_ID": "s3_t17",
+                        "pos": "JJ",
+                        "lemma": "extra",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "hand",
+                        "Terminal_ID": "s3_t18",
+                        "pos": "NN",
+                        "lemma": "hand",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s3_t19",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "know",
+                        "Terminal_ID": "s3_t20",
+                        "pos": "VB",
+                        "lemma": "know",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s3_t21",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "pride",
+                        "Terminal_ID": "s3_t22",
+                        "pos": "NN",
+                        "lemma": "pride",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "that",
+                        "Terminal_ID": "s3_t23",
+                        "pos": "WDT",
+                        "lemma": "that",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "comes",
+                        "Terminal_ID": "s3_t24",
+                        "pos": "VBZ",
+                        "lemma": "come",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "with",
+                        "Terminal_ID": "s3_t25",
+                        "pos": "IN",
+                        "lemma": "with",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "work",
+                        "Terminal_ID": "s3_t26",
+                        "pos": "NN",
+                        "lemma": "work",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s3_t27",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g3"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "``",
+                        "Terminal_ID": "s4_t1",
+                        "pos": "``",
+                        "lemma": "``",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s4_t2",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s4_t3",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "sad",
+                        "Terminal_ID": "s4_t4",
+                        "pos": "JJ",
+                        "lemma": "sad",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "when",
+                        "Terminal_ID": "s4_t5",
+                        "pos": "WRB",
+                        "lemma": "when",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s4_t6",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "could",
+                        "Terminal_ID": "s4_t7",
+                        "pos": "MD",
+                        "lemma": "could",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "n't",
+                        "Terminal_ID": "s4_t8",
+                        "pos": "RB",
+                        "lemma": "not",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "go",
+                        "Terminal_ID": "s4_t9",
+                        "pos": "VB",
+                        "lemma": "go",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s4_t10",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s4_t11",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "snack",
+                        "Terminal_ID": "s4_t12",
+                        "pos": "NN",
+                        "lemma": "snack",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "bar",
+                        "Terminal_ID": "s4_t13",
+                        "pos": "NN",
+                        "lemma": "bar",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s4_t14",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "buy",
+                        "Terminal_ID": "s4_t15",
+                        "pos": "VB",
+                        "lemma": "buy",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s4_t16",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "soda",
+                        "Terminal_ID": "s4_t17",
+                        "pos": "NN",
+                        "lemma": "soda",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s4_t18",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g4"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Now",
+                        "Terminal_ID": "s5_t1",
+                        "pos": "RB",
+                        "lemma": "now",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s5_t2",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "can",
+                        "Terminal_ID": "s5_t3",
+                        "pos": "MD",
+                        "lemma": "can",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "buy",
+                        "Terminal_ID": "s5_t4",
+                        "pos": "VB",
+                        "lemma": "buy",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s5_t5",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "soda",
+                        "Terminal_ID": "s5_t6",
+                        "pos": "NN",
+                        "lemma": "soda",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s5_t7",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "spend",
+                        "Terminal_ID": "s5_t8",
+                        "pos": "VB",
+                        "lemma": "spend",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "money",
+                        "Terminal_ID": "s5_t9",
+                        "pos": "NN",
+                        "lemma": "money",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s5_t10",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g5"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s6_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "like",
+                        "Terminal_ID": "s6_t2",
+                        "pos": "VBP",
+                        "lemma": "like",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "working",
+                        "Terminal_ID": "s6_t3",
+                        "pos": "VBG",
+                        "lemma": "work",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s6_t4",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "making",
+                        "Terminal_ID": "s6_t5",
+                        "pos": "VBG",
+                        "lemma": "make",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "money",
+                        "Terminal_ID": "s6_t6",
+                        "pos": "NN",
+                        "lemma": "money",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s6_t7",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g6"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s7_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "have",
+                        "Terminal_ID": "s7_t2",
+                        "pos": "VBP",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s7_t3",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "savings",
+                        "Terminal_ID": "s7_t4",
+                        "pos": "NN",
+                        "lemma": "savings",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "account",
+                        "Terminal_ID": "s7_t5",
+                        "pos": "NN",
+                        "lemma": "account",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s7_t6",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g7"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s8_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "can",
+                        "Terminal_ID": "s8_t2",
+                        "pos": "MD",
+                        "lemma": "can",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "write",
+                        "Terminal_ID": "s8_t3",
+                        "pos": "VB",
+                        "lemma": "write",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s8_t4",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "name",
+                        "Terminal_ID": "s8_t5",
+                        "pos": "NN",
+                        "lemma": "name",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "on",
+                        "Terminal_ID": "s8_t6",
+                        "pos": "IN",
+                        "lemma": "on",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s8_t7",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "deposit",
+                        "Terminal_ID": "s8_t8",
+                        "pos": "NN",
+                        "lemma": "deposit",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "slip",
+                        "Terminal_ID": "s8_t9",
+                        "pos": "NN",
+                        "lemma": "slip",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s8_t10",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g8"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "If",
+                        "Terminal_ID": "s9_t1",
+                        "pos": "IN",
+                        "lemma": "if",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s9_t2",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s9_t3",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "n't",
+                        "Terminal_ID": "s9_t4",
+                        "pos": "RB",
+                        "lemma": "not",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "working",
+                        "Terminal_ID": "s9_t5",
+                        "pos": "VBG",
+                        "lemma": "work",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "here",
+                        "Terminal_ID": "s9_t6",
+                        "pos": "RB",
+                        "lemma": "here",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "...",
+                        "Terminal_ID": "s9_t7",
+                        "pos": ":",
+                        "lemma": "...",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s9_t8",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "would",
+                        "Terminal_ID": "s9_t9",
+                        "pos": "MD",
+                        "lemma": "would",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "be",
+                        "Terminal_ID": "s9_t10",
+                        "pos": "VB",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "sad",
+                        "Terminal_ID": "s9_t11",
+                        "pos": "JJ",
+                        "lemma": "sad",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "...",
+                        "Terminal_ID": "s9_t12",
+                        "pos": ":",
+                        "lemma": "...",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "''",
+                        "Terminal_ID": "s9_t13",
+                        "pos": "''",
+                        "lemma": "''",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "--",
+                        "Terminal_ID": "s9_t14",
+                        "pos": ":",
+                        "lemma": "--",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Maureen",
+                        "Terminal_ID": "s9_t15",
+                        "pos": "NNP",
+                        "lemma": "Maureen",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "Because",
+                        "Terminal_ID": "s9_t16",
+                        "pos": "IN",
+                        "lemma": "because",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "turning",
+                        "Terminal_ID": "s9_t17",
+                        "pos": "VBG",
+                        "lemma": "turn",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "welfare",
+                        "Terminal_ID": "s9_t18",
+                        "pos": "NN",
+                        "lemma": "welfare",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "recipients",
+                        "Terminal_ID": "s9_t19",
+                        "pos": "NNS",
+                        "lemma": "recipient",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "into",
+                        "Terminal_ID": "s9_t20",
+                        "pos": "IN",
+                        "lemma": "into",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "tax",
+                        "Terminal_ID": "s9_t21",
+                        "pos": "NN",
+                        "lemma": "tax",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "payers",
+                        "Terminal_ID": "s9_t22",
+                        "pos": "NNS",
+                        "lemma": "payer",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "just",
+                        "Terminal_ID": "s9_t23",
+                        "pos": "RB",
+                        "lemma": "just",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "makes",
+                        "Terminal_ID": "s9_t24",
+                        "pos": "VBZ",
+                        "lemma": "make",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "sense",
+                        "Terminal_ID": "s9_t25",
+                        "pos": "NN",
+                        "lemma": "sense",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s9_t26",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g9"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "``",
+                        "Terminal_ID": "s10_t1",
+                        "pos": "``",
+                        "lemma": "``",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "When",
+                        "Terminal_ID": "s10_t2",
+                        "pos": "WRB",
+                        "lemma": "when",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s10_t3",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "first",
+                        "Terminal_ID": "s10_t4",
+                        "pos": "RB",
+                        "lemma": "first",
+                        "ner": "ORDINAL"
+                    },
+                    {
+                        "Word": "came",
+                        "Terminal_ID": "s10_t5",
+                        "pos": "VBD",
+                        "lemma": "come",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s10_t6",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s10_t7",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s10_t8",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s10_t9",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s10_t10",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "single",
+                        "Terminal_ID": "s10_t11",
+                        "pos": "JJ",
+                        "lemma": "single",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "parent",
+                        "Terminal_ID": "s10_t12",
+                        "pos": "NN",
+                        "lemma": "parent",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "with",
+                        "Terminal_ID": "s10_t13",
+                        "pos": "IN",
+                        "lemma": "with",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "little",
+                        "Terminal_ID": "s10_t14",
+                        "pos": "JJ",
+                        "lemma": "little",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "or",
+                        "Terminal_ID": "s10_t15",
+                        "pos": "CC",
+                        "lemma": "or",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "no",
+                        "Terminal_ID": "s10_t16",
+                        "pos": "DT",
+                        "lemma": "no",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "self-esteem",
+                        "Terminal_ID": "s10_t17",
+                        "pos": "NN",
+                        "lemma": "self-esteem",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s10_t18",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g10"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s11_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s11_t2",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "on",
+                        "Terminal_ID": "s11_t3",
+                        "pos": "IN",
+                        "lemma": "on",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "welfare",
+                        "Terminal_ID": "s11_t4",
+                        "pos": "NN",
+                        "lemma": "welfare",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s11_t5",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "without",
+                        "Terminal_ID": "s11_t6",
+                        "pos": "IN",
+                        "lemma": "without",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s11_t7",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "diploma",
+                        "Terminal_ID": "s11_t8",
+                        "pos": "NN",
+                        "lemma": "diploma",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s11_t9",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g11"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Coming",
+                        "Terminal_ID": "s12_t1",
+                        "pos": "VBG",
+                        "lemma": "come",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s12_t2",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s12_t3",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s12_t4",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s12_t5",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "first",
+                        "Terminal_ID": "s12_t6",
+                        "pos": "JJ",
+                        "lemma": "first",
+                        "ner": "ORDINAL"
+                    },
+                    {
+                        "Word": "step",
+                        "Terminal_ID": "s12_t7",
+                        "pos": "NN",
+                        "lemma": "step",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "toward",
+                        "Terminal_ID": "s12_t8",
+                        "pos": "IN",
+                        "lemma": "toward",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s12_t9",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "becoming",
+                        "Terminal_ID": "s12_t10",
+                        "pos": "VBG",
+                        "lemma": "become",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "totally",
+                        "Terminal_ID": "s12_t11",
+                        "pos": "RB",
+                        "lemma": "totally",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "independent",
+                        "Terminal_ID": "s12_t12",
+                        "pos": "JJ",
+                        "lemma": "independent",
+                        "ner": "RELIGION"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s12_t13",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g12"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s13_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "am",
+                        "Terminal_ID": "s13_t2",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "now",
+                        "Terminal_ID": "s13_t3",
+                        "pos": "RB",
+                        "lemma": "now",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "...",
+                        "Terminal_ID": "s13_t4",
+                        "pos": ":",
+                        "lemma": "...",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "totally",
+                        "Terminal_ID": "s13_t5",
+                        "pos": "RB",
+                        "lemma": "totally",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "off",
+                        "Terminal_ID": "s13_t6",
+                        "pos": "IN",
+                        "lemma": "off",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s13_t7",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "welfare",
+                        "Terminal_ID": "s13_t8",
+                        "pos": "NN",
+                        "lemma": "welfare",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s13_t9",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g13"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s14_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "really",
+                        "Terminal_ID": "s14_t2",
+                        "pos": "RB",
+                        "lemma": "really",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "like",
+                        "Terminal_ID": "s14_t3",
+                        "pos": "VB",
+                        "lemma": "like",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s14_t4",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "job",
+                        "Terminal_ID": "s14_t5",
+                        "pos": "NN",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s14_t6",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "''",
+                        "Terminal_ID": "s14_t7",
+                        "pos": "''",
+                        "lemma": "''",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g14"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "--",
+                        "Terminal_ID": "s15_t1",
+                        "pos": ":",
+                        "lemma": "--",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Sherry",
+                        "Terminal_ID": "s15_t2",
+                        "pos": "NNP",
+                        "lemma": "Sherry",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Because",
+                        "Terminal_ID": "s15_t3",
+                        "pos": "IN",
+                        "lemma": "because",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s15_t4",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "want",
+                        "Terminal_ID": "s15_t5",
+                        "pos": "VBP",
+                        "lemma": "want",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s15_t6",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "work",
+                        "Terminal_ID": "s15_t7",
+                        "pos": "VB",
+                        "lemma": "work",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s15_t8",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g15"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "``",
+                        "Terminal_ID": "s16_t1",
+                        "pos": "``",
+                        "lemma": "``",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s16_t2",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'d",
+                        "Terminal_ID": "s16_t3",
+                        "pos": "MD",
+                        "lemma": "would",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "never",
+                        "Terminal_ID": "s16_t4",
+                        "pos": "RB",
+                        "lemma": "never",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "finished",
+                        "Terminal_ID": "s16_t5",
+                        "pos": "VB",
+                        "lemma": "finish",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "high",
+                        "Terminal_ID": "s16_t6",
+                        "pos": "JJ",
+                        "lemma": "high",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "school",
+                        "Terminal_ID": "s16_t7",
+                        "pos": "NN",
+                        "lemma": "school",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s16_t8",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g16"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s17_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "had",
+                        "Terminal_ID": "s17_t2",
+                        "pos": "VBD",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "no",
+                        "Terminal_ID": "s17_t3",
+                        "pos": "DT",
+                        "lemma": "no",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "experience",
+                        "Terminal_ID": "s17_t4",
+                        "pos": "NN",
+                        "lemma": "experience",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "or",
+                        "Terminal_ID": "s17_t5",
+                        "pos": "CC",
+                        "lemma": "or",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "skills",
+                        "Terminal_ID": "s17_t6",
+                        "pos": "NNS",
+                        "lemma": "skill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "...",
+                        "Terminal_ID": "s17_t7",
+                        "pos": ":",
+                        "lemma": "...",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "The",
+                        "Terminal_ID": "s17_t8",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "only",
+                        "Terminal_ID": "s17_t9",
+                        "pos": "JJ",
+                        "lemma": "only",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "thing",
+                        "Terminal_ID": "s17_t10",
+                        "pos": "NN",
+                        "lemma": "thing",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s17_t11",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "did",
+                        "Terminal_ID": "s17_t12",
+                        "pos": "VBD",
+                        "lemma": "do",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "know",
+                        "Terminal_ID": "s17_t13",
+                        "pos": "VB",
+                        "lemma": "know",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "for",
+                        "Terminal_ID": "s17_t14",
+                        "pos": "IN",
+                        "lemma": "for",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "sure",
+                        "Terminal_ID": "s17_t15",
+                        "pos": "JJ",
+                        "lemma": "sure",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s17_t16",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "here",
+                        "Terminal_ID": "s17_t17",
+                        "pos": "RB",
+                        "lemma": "here",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'s",
+                        "Terminal_ID": "s17_t18",
+                        "pos": "VBZ",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s17_t19",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "chance",
+                        "Terminal_ID": "s17_t20",
+                        "pos": "NN",
+                        "lemma": "chance",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s17_t21",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "change",
+                        "Terminal_ID": "s17_t22",
+                        "pos": "VB",
+                        "lemma": "change",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "things",
+                        "Terminal_ID": "s17_t23",
+                        "pos": "NNS",
+                        "lemma": "thing",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "for",
+                        "Terminal_ID": "s17_t24",
+                        "pos": "IN",
+                        "lemma": "for",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "me",
+                        "Terminal_ID": "s17_t25",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s17_t26",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s17_t27",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "children",
+                        "Terminal_ID": "s17_t28",
+                        "pos": "NNS",
+                        "lemma": "child",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "...",
+                        "Terminal_ID": "s17_t29",
+                        "pos": ":",
+                        "lemma": "...",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s17_t30",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "rode",
+                        "Terminal_ID": "s17_t31",
+                        "pos": "VBD",
+                        "lemma": "ride",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s17_t32",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "bike",
+                        "Terminal_ID": "s17_t33",
+                        "pos": "NN",
+                        "lemma": "bike",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s17_t34",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s17_t35",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "in",
+                        "Terminal_ID": "s17_t36",
+                        "pos": "IN",
+                        "lemma": "in",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s17_t37",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "rain",
+                        "Terminal_ID": "s17_t38",
+                        "pos": "NN",
+                        "lemma": "rain",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s17_t39",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "snow",
+                        "Terminal_ID": "s17_t40",
+                        "pos": "NN",
+                        "lemma": "snow",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s17_t41",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g17"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s18_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "wanted",
+                        "Terminal_ID": "s18_t2",
+                        "pos": "VBD",
+                        "lemma": "want",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s18_t3",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "be",
+                        "Terminal_ID": "s18_t4",
+                        "pos": "VB",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "there",
+                        "Terminal_ID": "s18_t5",
+                        "pos": "RB",
+                        "lemma": "there",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "...",
+                        "Terminal_ID": "s18_t6",
+                        "pos": ":",
+                        "lemma": "...",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s18_t7",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "had",
+                        "Terminal_ID": "s18_t8",
+                        "pos": "VBD",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s18_t9",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "second",
+                        "Terminal_ID": "s18_t10",
+                        "pos": "JJ",
+                        "lemma": "second",
+                        "ner": "ORDINAL"
+                    },
+                    {
+                        "Word": "chance",
+                        "Terminal_ID": "s18_t11",
+                        "pos": "NN",
+                        "lemma": "chance",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s18_t12",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "change",
+                        "Terminal_ID": "s18_t13",
+                        "pos": "VB",
+                        "lemma": "change",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "my",
+                        "Terminal_ID": "s18_t14",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "life",
+                        "Terminal_ID": "s18_t15",
+                        "pos": "NN",
+                        "lemma": "life",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s18_t16",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "''",
+                        "Terminal_ID": "s18_t17",
+                        "pos": "''",
+                        "lemma": "''",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g18"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "--",
+                        "Terminal_ID": "s19_t1",
+                        "pos": ":",
+                        "lemma": "--",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "Donna",
+                        "Terminal_ID": "s19_t2",
+                        "pos": "NNP",
+                        "lemma": "Donna",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "Because",
+                        "Terminal_ID": "s19_t3",
+                        "pos": "IN",
+                        "lemma": "because",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "teaching",
+                        "Terminal_ID": "s19_t4",
+                        "pos": "VBG",
+                        "lemma": "teach",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s19_t5",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "man",
+                        "Terminal_ID": "s19_t6",
+                        "pos": "NN",
+                        "lemma": "man",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s19_t7",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "fish",
+                        "Terminal_ID": "s19_t8",
+                        "pos": "NN",
+                        "lemma": "fish",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "will",
+                        "Terminal_ID": "s19_t9",
+                        "pos": "MD",
+                        "lemma": "will",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "keep",
+                        "Terminal_ID": "s19_t10",
+                        "pos": "VB",
+                        "lemma": "keep",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "him",
+                        "Terminal_ID": "s19_t11",
+                        "pos": "PRP",
+                        "lemma": "he",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "fed",
+                        "Terminal_ID": "s19_t12",
+                        "pos": "VBN",
+                        "lemma": "feed",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "for",
+                        "Terminal_ID": "s19_t13",
+                        "pos": "IN",
+                        "lemma": "for",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "his",
+                        "Terminal_ID": "s19_t14",
+                        "pos": "PRP$",
+                        "lemma": "he",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "entire",
+                        "Terminal_ID": "s19_t15",
+                        "pos": "JJ",
+                        "lemma": "entire",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "life",
+                        "Terminal_ID": "s19_t16",
+                        "pos": "NN",
+                        "lemma": "life",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s19_t17",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g19"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "``",
+                        "Terminal_ID": "s20_t1",
+                        "pos": "``",
+                        "lemma": "``",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Before",
+                        "Terminal_ID": "s20_t2",
+                        "pos": "IN",
+                        "lemma": "before",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s20_t3",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "got",
+                        "Terminal_ID": "s20_t4",
+                        "pos": "VBD",
+                        "lemma": "get",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s20_t5",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s20_t6",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "MISC"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s20_t7",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s20_t8",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s20_t9",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "on",
+                        "Terminal_ID": "s20_t10",
+                        "pos": "IN",
+                        "lemma": "on",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s20_t11",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "mission",
+                        "Terminal_ID": "s20_t12",
+                        "pos": "NN",
+                        "lemma": "mission",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s20_t13",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g20"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s21_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "just",
+                        "Terminal_ID": "s21_t2",
+                        "pos": "RB",
+                        "lemma": "just",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "wanted",
+                        "Terminal_ID": "s21_t3",
+                        "pos": "VBD",
+                        "lemma": "want",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s21_t4",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "job",
+                        "Terminal_ID": "s21_t5",
+                        "pos": "NN",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s21_t6",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g21"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "It",
+                        "Terminal_ID": "s22_t1",
+                        "pos": "PRP",
+                        "lemma": "it",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "did",
+                        "Terminal_ID": "s22_t2",
+                        "pos": "VBD",
+                        "lemma": "do",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "n't",
+                        "Terminal_ID": "s22_t3",
+                        "pos": "RB",
+                        "lemma": "not",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "matter",
+                        "Terminal_ID": "s22_t4",
+                        "pos": "VB",
+                        "lemma": "matter",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "what",
+                        "Terminal_ID": "s22_t5",
+                        "pos": "WP",
+                        "lemma": "what",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s22_t6",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "job",
+                        "Terminal_ID": "s22_t7",
+                        "pos": "NN",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "was",
+                        "Terminal_ID": "s22_t8",
+                        "pos": "VBD",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s22_t9",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s22_t10",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "just",
+                        "Terminal_ID": "s22_t11",
+                        "pos": "RB",
+                        "lemma": "just",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "wanted",
+                        "Terminal_ID": "s22_t12",
+                        "pos": "VBD",
+                        "lemma": "want",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "one",
+                        "Terminal_ID": "s22_t13",
+                        "pos": "CD",
+                        "lemma": "one",
+                        "ner": "NUMBER"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s22_t14",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g22"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Now",
+                        "Terminal_ID": "s23_t1",
+                        "pos": "RB",
+                        "lemma": "now",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s23_t2",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s23_t3",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'m",
+                        "Terminal_ID": "s23_t4",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "on",
+                        "Terminal_ID": "s23_t5",
+                        "pos": "IN",
+                        "lemma": "on",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s23_t6",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "journey",
+                        "Terminal_ID": "s23_t7",
+                        "pos": "NN",
+                        "lemma": "journey",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s23_t8",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g23"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s24_t1",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'ve",
+                        "Terminal_ID": "s24_t2",
+                        "pos": "VBP",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "got",
+                        "Terminal_ID": "s24_t3",
+                        "pos": "VBD",
+                        "lemma": "get",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "more",
+                        "Terminal_ID": "s24_t4",
+                        "pos": "JJR",
+                        "lemma": "more",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "than",
+                        "Terminal_ID": "s24_t5",
+                        "pos": "IN",
+                        "lemma": "than",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s24_t6",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "job",
+                        "Terminal_ID": "s24_t7",
+                        "pos": "NN",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ";",
+                        "Terminal_ID": "s24_t8",
+                        "pos": ":",
+                        "lemma": ";",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s24_t9",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'ve",
+                        "Terminal_ID": "s24_t10",
+                        "pos": "VBP",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "got",
+                        "Terminal_ID": "s24_t11",
+                        "pos": "VBD",
+                        "lemma": "get",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s24_t12",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "career",
+                        "Terminal_ID": "s24_t13",
+                        "pos": "NN",
+                        "lemma": "career",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s24_t14",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g24"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "My",
+                        "Terminal_ID": "s25_t1",
+                        "pos": "PRP$",
+                        "lemma": "my",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "instructor",
+                        "Terminal_ID": "s25_t2",
+                        "pos": "NN",
+                        "lemma": "instructor",
+                        "ner": "TITLE"
+                    },
+                    {
+                        "Word": "played",
+                        "Terminal_ID": "s25_t3",
+                        "pos": "VBD",
+                        "lemma": "play",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s25_t4",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "role",
+                        "Terminal_ID": "s25_t5",
+                        "pos": "NN",
+                        "lemma": "role",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "like",
+                        "Terminal_ID": "s25_t6",
+                        "pos": "IN",
+                        "lemma": "like",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "no",
+                        "Terminal_ID": "s25_t7",
+                        "pos": "DT",
+                        "lemma": "no",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "other",
+                        "Terminal_ID": "s25_t8",
+                        "pos": "JJ",
+                        "lemma": "other",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "instructor",
+                        "Terminal_ID": "s25_t9",
+                        "pos": "NN",
+                        "lemma": "instructor",
+                        "ner": "TITLE"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s25_t10",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "'ve",
+                        "Terminal_ID": "s25_t11",
+                        "pos": "VBP",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "ever",
+                        "Terminal_ID": "s25_t12",
+                        "pos": "RB",
+                        "lemma": "ever",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "had",
+                        "Terminal_ID": "s25_t13",
+                        "pos": "VBN",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "I",
+                        "Terminal_ID": "s25_t14",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "appreciate",
+                        "Terminal_ID": "s25_t15",
+                        "pos": "VBP",
+                        "lemma": "appreciate",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "everything",
+                        "Terminal_ID": "s25_t16",
+                        "pos": "NN",
+                        "lemma": "everything",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "that",
+                        "Terminal_ID": "s25_t17",
+                        "pos": "WDT",
+                        "lemma": "that",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s25_t18",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "has",
+                        "Terminal_ID": "s25_t19",
+                        "pos": "VBZ",
+                        "lemma": "have",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "done",
+                        "Terminal_ID": "s25_t20",
+                        "pos": "VBN",
+                        "lemma": "do",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "for",
+                        "Terminal_ID": "s25_t21",
+                        "pos": "IN",
+                        "lemma": "for",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "me",
+                        "Terminal_ID": "s25_t22",
+                        "pos": "PRP",
+                        "lemma": "I",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s25_t23",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "''",
+                        "Terminal_ID": "s25_t24",
+                        "pos": "''",
+                        "lemma": "''",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g25"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "--",
+                        "Terminal_ID": "s26_t1",
+                        "pos": ":",
+                        "lemma": "--",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Cornell",
+                        "Terminal_ID": "s26_t2",
+                        "pos": "NNP",
+                        "lemma": "Cornell",
+                        "ner": "ORGANIZATION"
+                    },
+                    {
+                        "Word": "Each",
+                        "Terminal_ID": "s26_t3",
+                        "pos": "DT",
+                        "lemma": "each",
+                        "ner": "SET"
+                    },
+                    {
+                        "Word": "year",
+                        "Terminal_ID": "s26_t4",
+                        "pos": "NN",
+                        "lemma": "year",
+                        "ner": "SET"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s26_t5",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "we",
+                        "Terminal_ID": "s26_t6",
+                        "pos": "PRP",
+                        "lemma": "we",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s26_t7",
+                        "pos": "VBP",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "thousands",
+                        "Terminal_ID": "s26_t8",
+                        "pos": "NNS",
+                        "lemma": "thousand",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s26_t9",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s26_t10",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "who",
+                        "Terminal_ID": "s26_t11",
+                        "pos": "WP",
+                        "lemma": "who",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "face",
+                        "Terminal_ID": "s26_t12",
+                        "pos": "VBP",
+                        "lemma": "face",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "tremendous",
+                        "Terminal_ID": "s26_t13",
+                        "pos": "JJ",
+                        "lemma": "tremendous",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "obstacles",
+                        "Terminal_ID": "s26_t14",
+                        "pos": "NNS",
+                        "lemma": "obstacle",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s26_t15",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g26"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Their",
+                        "Terminal_ID": "s27_t1",
+                        "pos": "PRP$",
+                        "lemma": "they",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "one",
+                        "Terminal_ID": "s27_t2",
+                        "pos": "CD",
+                        "lemma": "one",
+                        "ner": "NUMBER"
+                    },
+                    {
+                        "Word": "common",
+                        "Terminal_ID": "s27_t3",
+                        "pos": "JJ",
+                        "lemma": "common",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "goal",
+                        "Terminal_ID": "s27_t4",
+                        "pos": "NN",
+                        "lemma": "goal",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ":",
+                        "Terminal_ID": "s27_t5",
+                        "pos": ":",
+                        "lemma": ":",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "they",
+                        "Terminal_ID": "s27_t6",
+                        "pos": "PRP",
+                        "lemma": "they",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "all",
+                        "Terminal_ID": "s27_t7",
+                        "pos": "DT",
+                        "lemma": "all",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "want",
+                        "Terminal_ID": "s27_t8",
+                        "pos": "VBP",
+                        "lemma": "want",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s27_t9",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "work",
+                        "Terminal_ID": "s27_t10",
+                        "pos": "VB",
+                        "lemma": "work",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s27_t11",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g27"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "A",
+                        "Terminal_ID": "s28_t1",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "robust",
+                        "Terminal_ID": "s28_t2",
+                        "pos": "JJ",
+                        "lemma": "robust",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "economy",
+                        "Terminal_ID": "s28_t3",
+                        "pos": "NN",
+                        "lemma": "economy",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "helps",
+                        "Terminal_ID": "s28_t4",
+                        "pos": "VBZ",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "by",
+                        "Terminal_ID": "s28_t5",
+                        "pos": "IN",
+                        "lemma": "by",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "providing",
+                        "Terminal_ID": "s28_t6",
+                        "pos": "VBG",
+                        "lemma": "provide",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "job",
+                        "Terminal_ID": "s28_t7",
+                        "pos": "NN",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "opportunities",
+                        "Terminal_ID": "s28_t8",
+                        "pos": "NNS",
+                        "lemma": "opportunity",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s28_t9",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "but",
+                        "Terminal_ID": "s28_t10",
+                        "pos": "CC",
+                        "lemma": "but",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s28_t11",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "be",
+                        "Terminal_ID": "s28_t12",
+                        "pos": "VB",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "honest",
+                        "Terminal_ID": "s28_t13",
+                        "pos": "JJ",
+                        "lemma": "honest",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s28_t14",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "most",
+                        "Terminal_ID": "s28_t15",
+                        "pos": "JJS",
+                        "lemma": "most",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s28_t16",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s28_t17",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s28_t18",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "who",
+                        "Terminal_ID": "s28_t19",
+                        "pos": "WP",
+                        "lemma": "who",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "are",
+                        "Terminal_ID": "s28_t20",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "n't",
+                        "Terminal_ID": "s28_t21",
+                        "pos": "RB",
+                        "lemma": "not",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "working",
+                        "Terminal_ID": "s28_t22",
+                        "pos": "VBG",
+                        "lemma": "work",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "today",
+                        "Terminal_ID": "s28_t23",
+                        "pos": "NN",
+                        "lemma": "today",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "are",
+                        "Terminal_ID": "s28_t24",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "quite",
+                        "Terminal_ID": "s28_t25",
+                        "pos": "RB",
+                        "lemma": "quite",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "simply",
+                        "Terminal_ID": "s28_t26",
+                        "pos": "RB",
+                        "lemma": "simply",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s28_t27",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "ones",
+                        "Terminal_ID": "s28_t28",
+                        "pos": "NNS",
+                        "lemma": "one",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "who",
+                        "Terminal_ID": "s28_t29",
+                        "pos": "WP",
+                        "lemma": "who",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "face",
+                        "Terminal_ID": "s28_t30",
+                        "pos": "VBP",
+                        "lemma": "face",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s28_t31",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "greatest",
+                        "Terminal_ID": "s28_t32",
+                        "pos": "JJS",
+                        "lemma": "greatest",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "obstacles",
+                        "Terminal_ID": "s28_t33",
+                        "pos": "NNS",
+                        "lemma": "obstacle",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s28_t34",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g28"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "The",
+                        "Terminal_ID": "s29_t1",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "kinds",
+                        "Terminal_ID": "s29_t2",
+                        "pos": "NNS",
+                        "lemma": "kind",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s29_t3",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "services",
+                        "Terminal_ID": "s29_t4",
+                        "pos": "NNS",
+                        "lemma": "service",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "we",
+                        "Terminal_ID": "s29_t5",
+                        "pos": "PRP",
+                        "lemma": "we",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "provide",
+                        "Terminal_ID": "s29_t6",
+                        "pos": "VBP",
+                        "lemma": "provide",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s29_t7",
+                        "pos": "VB",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s29_t8",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "deal",
+                        "Terminal_ID": "s29_t9",
+                        "pos": "VB",
+                        "lemma": "deal",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "with",
+                        "Terminal_ID": "s29_t10",
+                        "pos": "IN",
+                        "lemma": "with",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "obstacles",
+                        "Terminal_ID": "s29_t11",
+                        "pos": "NNS",
+                        "lemma": "obstacle",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "like",
+                        "Terminal_ID": "s29_t12",
+                        "pos": "IN",
+                        "lemma": "like",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "health",
+                        "Terminal_ID": "s29_t13",
+                        "pos": "NN",
+                        "lemma": "health",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "care",
+                        "Terminal_ID": "s29_t14",
+                        "pos": "NN",
+                        "lemma": "care",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s29_t15",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "transportation",
+                        "Terminal_ID": "s29_t16",
+                        "pos": "NN",
+                        "lemma": "transportation",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s29_t17",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "child",
+                        "Terminal_ID": "s29_t18",
+                        "pos": "NN",
+                        "lemma": "child",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "care",
+                        "Terminal_ID": "s29_t19",
+                        "pos": "NN",
+                        "lemma": "care",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "-",
+                        "Terminal_ID": "s29_t20",
+                        "pos": ":",
+                        "lemma": "-",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "problems",
+                        "Terminal_ID": "s29_t21",
+                        "pos": "NNS",
+                        "lemma": "problem",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "that",
+                        "Terminal_ID": "s29_t22",
+                        "pos": "WDT",
+                        "lemma": "that",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "are",
+                        "Terminal_ID": "s29_t23",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "big",
+                        "Terminal_ID": "s29_t24",
+                        "pos": "JJ",
+                        "lemma": "big",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "enough",
+                        "Terminal_ID": "s29_t25",
+                        "pos": "RB",
+                        "lemma": "enough",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "on",
+                        "Terminal_ID": "s29_t26",
+                        "pos": "IN",
+                        "lemma": "on",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "their",
+                        "Terminal_ID": "s29_t27",
+                        "pos": "PRP$",
+                        "lemma": "they",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "own",
+                        "Terminal_ID": "s29_t28",
+                        "pos": "JJ",
+                        "lemma": "own",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "without",
+                        "Terminal_ID": "s29_t29",
+                        "pos": "IN",
+                        "lemma": "without",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "being",
+                        "Terminal_ID": "s29_t30",
+                        "pos": "VBG",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "compounded",
+                        "Terminal_ID": "s29_t31",
+                        "pos": "VBN",
+                        "lemma": "compound",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "by",
+                        "Terminal_ID": "s29_t32",
+                        "pos": "IN",
+                        "lemma": "by",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "factors",
+                        "Terminal_ID": "s29_t33",
+                        "pos": "NNS",
+                        "lemma": "factor",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "like",
+                        "Terminal_ID": "s29_t34",
+                        "pos": "IN",
+                        "lemma": "like",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "physical",
+                        "Terminal_ID": "s29_t35",
+                        "pos": "JJ",
+                        "lemma": "physical",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s29_t36",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "mental",
+                        "Terminal_ID": "s29_t37",
+                        "pos": "JJ",
+                        "lemma": "mental",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "disabilities",
+                        "Terminal_ID": "s29_t38",
+                        "pos": "NNS",
+                        "lemma": "disability",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s29_t39",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "illiteracy",
+                        "Terminal_ID": "s29_t40",
+                        "pos": "NN",
+                        "lemma": "illiteracy",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s29_t41",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "lack",
+                        "Terminal_ID": "s29_t42",
+                        "pos": "NN",
+                        "lemma": "lack",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s29_t43",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "job",
+                        "Terminal_ID": "s29_t44",
+                        "pos": "NN",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "skills",
+                        "Terminal_ID": "s29_t45",
+                        "pos": "NNS",
+                        "lemma": "skill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s29_t46",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g29"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Last",
+                        "Terminal_ID": "s30_t1",
+                        "pos": "JJ",
+                        "lemma": "last",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "year",
+                        "Terminal_ID": "s30_t2",
+                        "pos": "NN",
+                        "lemma": "year",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s30_t3",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s30_t4",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "helped",
+                        "Terminal_ID": "s30_t5",
+                        "pos": "VBD",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "3,300",
+                        "Terminal_ID": "s30_t6",
+                        "pos": "CD",
+                        "lemma": "3,300",
+                        "ner": "NUMBER"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s30_t7",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "find",
+                        "Terminal_ID": "s30_t8",
+                        "pos": "VBP",
+                        "lemma": "find",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "jobs",
+                        "Terminal_ID": "s30_t9",
+                        "pos": "NNS",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "that",
+                        "Terminal_ID": "s30_t10",
+                        "pos": "WDT",
+                        "lemma": "that",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "increased",
+                        "Terminal_ID": "s30_t11",
+                        "pos": "VBD",
+                        "lemma": "increase",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "their",
+                        "Terminal_ID": "s30_t12",
+                        "pos": "PRP$",
+                        "lemma": "they",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "self-sufficiency",
+                        "Terminal_ID": "s30_t13",
+                        "pos": "NN",
+                        "lemma": "self-sufficiency",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s30_t14",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g30"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Your",
+                        "Terminal_ID": "s31_t1",
+                        "pos": "PRP$",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "gift",
+                        "Terminal_ID": "s31_t2",
+                        "pos": "NN",
+                        "lemma": "gift",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s31_t3",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s31_t4",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "LOCATION"
+                    },
+                    {
+                        "Word": "will",
+                        "Terminal_ID": "s31_t5",
+                        "pos": "MD",
+                        "lemma": "will",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "be",
+                        "Terminal_ID": "s31_t6",
+                        "pos": "VB",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "used",
+                        "Terminal_ID": "s31_t7",
+                        "pos": "VBN",
+                        "lemma": "use",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "directly",
+                        "Terminal_ID": "s31_t8",
+                        "pos": "RB",
+                        "lemma": "directly",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s31_t9",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "support",
+                        "Terminal_ID": "s31_t10",
+                        "pos": "VB",
+                        "lemma": "support",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "services",
+                        "Terminal_ID": "s31_t11",
+                        "pos": "NNS",
+                        "lemma": "service",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "that",
+                        "Terminal_ID": "s31_t12",
+                        "pos": "WDT",
+                        "lemma": "that",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "will",
+                        "Terminal_ID": "s31_t13",
+                        "pos": "MD",
+                        "lemma": "will",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s31_t14",
+                        "pos": "VB",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "even",
+                        "Terminal_ID": "s31_t15",
+                        "pos": "RB",
+                        "lemma": "even",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "more",
+                        "Terminal_ID": "s31_t16",
+                        "pos": "RBR",
+                        "lemma": "more",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "find",
+                        "Terminal_ID": "s31_t17",
+                        "pos": "VB",
+                        "lemma": "find",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "jobs",
+                        "Terminal_ID": "s31_t18",
+                        "pos": "NNS",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s31_t19",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g31"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Right",
+                        "Terminal_ID": "s32_t1",
+                        "pos": "RB",
+                        "lemma": "right",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "now",
+                        "Terminal_ID": "s32_t2",
+                        "pos": "RB",
+                        "lemma": "now",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s32_t3",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "there",
+                        "Terminal_ID": "s32_t4",
+                        "pos": "EX",
+                        "lemma": "there",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "are",
+                        "Terminal_ID": "s32_t5",
+                        "pos": "VBP",
+                        "lemma": "be",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "thousands",
+                        "Terminal_ID": "s32_t6",
+                        "pos": "NNS",
+                        "lemma": "thousand",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "of",
+                        "Terminal_ID": "s32_t7",
+                        "pos": "IN",
+                        "lemma": "of",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s32_t8",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "who",
+                        "Terminal_ID": "s32_t9",
+                        "pos": "WP",
+                        "lemma": "who",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "do",
+                        "Terminal_ID": "s32_t10",
+                        "pos": "VBP",
+                        "lemma": "do",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "not",
+                        "Terminal_ID": "s32_t11",
+                        "pos": "RB",
+                        "lemma": "not",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "know",
+                        "Terminal_ID": "s32_t12",
+                        "pos": "VB",
+                        "lemma": "know",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "what",
+                        "Terminal_ID": "s32_t13",
+                        "pos": "WP",
+                        "lemma": "what",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "it",
+                        "Terminal_ID": "s32_t14",
+                        "pos": "PRP",
+                        "lemma": "it",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "feels",
+                        "Terminal_ID": "s32_t15",
+                        "pos": "VBZ",
+                        "lemma": "feel",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "like",
+                        "Terminal_ID": "s32_t16",
+                        "pos": "IN",
+                        "lemma": "like",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s32_t17",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "support",
+                        "Terminal_ID": "s32_t18",
+                        "pos": "VB",
+                        "lemma": "support",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "themselves",
+                        "Terminal_ID": "s32_t19",
+                        "pos": "PRP",
+                        "lemma": "themselves",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s32_t20",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g32"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "You",
+                        "Terminal_ID": "s33_t1",
+                        "pos": "PRP",
+                        "lemma": "you",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "can",
+                        "Terminal_ID": "s33_t2",
+                        "pos": "MD",
+                        "lemma": "can",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s33_t3",
+                        "pos": "VB",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "them",
+                        "Terminal_ID": "s33_t4",
+                        "pos": "PRP",
+                        "lemma": "they",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s33_t5",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "know",
+                        "Terminal_ID": "s33_t6",
+                        "pos": "VB",
+                        "lemma": "know",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "that",
+                        "Terminal_ID": "s33_t7",
+                        "pos": "DT",
+                        "lemma": "that",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "feeling",
+                        "Terminal_ID": "s33_t8",
+                        "pos": "NN",
+                        "lemma": "feeling",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s33_t9",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g33"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Please",
+                        "Terminal_ID": "s34_t1",
+                        "pos": "VB",
+                        "lemma": "please",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s34_t2",
+                        "pos": "VB",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s34_t3",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s34_t4",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "help",
+                        "Terminal_ID": "s34_t5",
+                        "pos": "VB",
+                        "lemma": "help",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "people",
+                        "Terminal_ID": "s34_t6",
+                        "pos": "NNS",
+                        "lemma": "people",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "find",
+                        "Terminal_ID": "s34_t7",
+                        "pos": "VB",
+                        "lemma": "find",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "jobs",
+                        "Terminal_ID": "s34_t8",
+                        "pos": "NNS",
+                        "lemma": "job",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ".",
+                        "Terminal_ID": "s34_t9",
+                        "pos": ".",
+                        "lemma": ".",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g34"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Use",
+                        "Terminal_ID": "s35_t1",
+                        "pos": "VB",
+                        "lemma": "use",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "the",
+                        "Terminal_ID": "s35_t2",
+                        "pos": "DT",
+                        "lemma": "the",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "enclosed",
+                        "Terminal_ID": "s35_t3",
+                        "pos": "JJ",
+                        "lemma": "enclosed",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "card",
+                        "Terminal_ID": "s35_t4",
+                        "pos": "NN",
+                        "lemma": "card",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "and",
+                        "Terminal_ID": "s35_t5",
+                        "pos": "CC",
+                        "lemma": "and",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "give",
+                        "Terminal_ID": "s35_t6",
+                        "pos": "VB",
+                        "lemma": "give",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "a",
+                        "Terminal_ID": "s35_t7",
+                        "pos": "DT",
+                        "lemma": "a",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "generous",
+                        "Terminal_ID": "s35_t8",
+                        "pos": "JJ",
+                        "lemma": "generous",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "gift",
+                        "Terminal_ID": "s35_t9",
+                        "pos": "NN",
+                        "lemma": "gift",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "to",
+                        "Terminal_ID": "s35_t10",
+                        "pos": "TO",
+                        "lemma": "to",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "Goodwill",
+                        "Terminal_ID": "s35_t11",
+                        "pos": "NNP",
+                        "lemma": "Goodwill",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "today",
+                        "Terminal_ID": "s35_t12",
+                        "pos": "NN",
+                        "lemma": "today",
+                        "ner": "DATE"
+                    },
+                    {
+                        "Word": "!",
+                        "Terminal_ID": "s35_t13",
+                        "pos": ".",
+                        "lemma": "!",
+                        "ner": "O"
+                    }
+                ],
+                "Graph_ID": "s1_g35"
+            },
+            {
+                "Terminal_Array": [
+                    {
+                        "Word": "Sincerely",
+                        "Terminal_ID": "s36_t1",
+                        "pos": "RB",
+                        "lemma": "sincerely",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": ",",
+                        "Terminal_ID": "s36_t2",
+                        "pos": ",",
+                        "lemma": ",",
+                        "ner": "O"
+                    },
+                    {
+                        "Word": "James",
+                        "Terminal_ID": "s36_t3",
+                        "pos": "NNP",
+                        "lemma": "James",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "M.",
+                        "Terminal_ID": "s36_t4",
+                        "pos": "NNP",
+                        "lemma": "M.",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "McClelland",
+                        "Terminal_ID": "s36_t5",
+                        "pos": "NNP",
+                        "lemma": "McClelland",
+                        "ner": "PERSON"
+                    },
+                    {
+                        "Word": "President",
+                        "Terminal_ID": "s36_t6",
+                        "pos": "NNP",
+                        "lemma": "President",
+                        "ner": "TITLE"
+                    }
+                ],
+                "Graph_ID": "s1_g36"
+            }
+        ]
+    },
+    "addedwords": []
+}
